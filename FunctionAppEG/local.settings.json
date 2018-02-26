@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "myContainerName": "thumbnails",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "myblobstorage_STORAGE": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=blob4eg;AccountKey=nsdc89shd9cbs9dbc9sbvd98cvs9dvc9bsd9c8bs9dbc==",
+    "ScmType": "ExternalGit",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "15.0.26730.8",
+    "FUNCTION_APP_EDIT_MODE": "readwrite",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=functionappegstoracc;AccountKey=o9shnd98cbs98dbc98sbd9c8b9sdbc98sbd9c8bs98dcb98sbdc9==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=functionappegstoracc;AccountKey=9sdbc9bsd9cb9sbdc9bsd98cbs98dbc98sbdc98bs9d8bc98sbdc98bs==",
+    "WEBSITE_CONTENTSHARE": "functionappeg89d5",
+    "WEBSITE_SITE_NAME": "FunctionAppEG",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=functionappegstoracc;AccountKey=n9sbdc98bsd98cb98sbdc98bsd9c8bs98dbc98sbdc98bsd9c8bsd98=="
+  }
+}
